@@ -1,0 +1,465 @@
+﻿[
+  {
+    "Id": "31191e0e-891d-41b9-aea5-8f29298cb25f",
+    "SubTopic": "Introduction",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures.",
+    "Keywords": "data,algorithms,programming,code,basic,introduction,algo,notation,transfer",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "def5c35f-976c-4bf6-b337-62ee95ad7a2c",
+    "SubTopic": "Why to Learn Data Structure and Algorithms?",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "As applications are getting complex and data rich, there are three common problems that applications face now-a-days.<li>Data Search − Consider an inventory of 1 million(106) items of a store. If the application is to search an item, it has to search an item in 1 million(106) items every time slowing down the search. As data grows, search will become slower.<li/><li>Processor speed − Processor speed although being very high, falls limited if the data grows to billion records.<li/><li>Multiple requests − As thousands of users can search data simultaneously on a web server, even the fast server fails while searching the data.<li/>To solve the above-mentioned problems, data structures come to rescue. Data can be organized in a data structure in such a way that all items may not be required to be searched, and the required data can be searched almost instantly.",
+    "Keywords": "learning,reason",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "e6ee26e9-04e4-4195-8d8e-295dbe6bf497",
+    "SubTopic": "Applications of Data Structure and Algorithms",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.From the data structure point of view, following are some important categories of algorithms −Search − Algorithm to search an item in a data structure.Sort − Algorithm to sort items in a certain order.Insert − Algorithm to insert item in a data structure.Update − Algorithm to update an existing item in a data structure.Delete − Algorithm to delete an existing item from a data structure.The following computer problems can be solved using Data Structures −<li>Fibonacci number series<li/><li>Knapsack problem<li/><li>Tower of Hanoi<li/><li>All pair shortest path by Floyd-Warshall<li/><li>Shortest path by Dijkstra<li/><li>Project scheduling<li/>",
+    "Keywords": "sort,merge,application",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "4dd85158-8503-4b12-9c6e-fd0f771818dd",
+    "SubTopic": "How to Write an Algorithm?",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "There are no well-defined standards for writing algorithms. Rather, it is problem and resource dependent. Algorithms are never written to support a particular programming code. As we know that all programming languages share basic code constructs like loops (do, for, while), flow-control (if-else), etc. These common constructs can be used to write an algorithm. We write algorithms in a step-by-step manner, but it is not always the case. Algorithm writing is a process and is executed after the problem domain is well-defined. That is, we should know the problem domain, for which we are designing a solution.",
+    "Keywords": "algorithm,how,writing,",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "8cb7c2df-b6b2-47d7-977e-8c4cc4931f34",
+    "SubTopic": "Greedy Algorithm",
+    "ArticleTopicId": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "ArticleText": "An algorithm is designed to achieve optimum solution for a given problem. In greedy algorithm approach, decisions are made from the given solution domain. As being greedy, the closest solution that seems to provide an optimum solution is chosen. Greedy algorithms try to find a localized optimum solution, which may eventually lead to globally optimized solutions. However, generally greedy algorithms do not provide globally optimized solutions.",
+    "Keywords": "time,complexity,algorithm,",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "7cfb6801-6883-4bbe-ba5c-2b1c1d0307bc",
+    "SubTopic": "Background",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "How did we get here? Apple had long been rumored to be working on its own processors to gain the same top-down control it enjoys with the iPhone and iPad. At the same time, Intel has received criticism for its inability to perform a die shrink after being stuck on 14-nanometer nodes for years before moving to slower 10nm chips. Things reached a boiling point in early 2019 when Tim Cook blamed Intel chip shortages for declining Mac sales. A year later, Apple revealed the MacBook Air and MacBook Pro with M1 chips, or Apple's custom ARM-based silicon. The debut of Apple's first computer chips marked the beginning of the end of a 14-year collaboration between Apple and Intel. It didn't take long to learn that the divorce was a nasty one. ",
+    "Keywords": "apple,intel,M1",
+    "IsPublished": true,
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "a4c75f3a-0cbf-4e45-9563-a64e4cf82e71",
+    "SubTopic": "Intel CPUs vs Apple M1: Performance",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "The most important element of a processor for many customers is performance. For the longest time (the better part of a decade), Intel was unrivaled when it came to mobile-chip performance with its Core processors running circles around the competition. That changed in earnest at the start of 2020 when AMD released its Ryzen 4000-series chips, which outperformed Intel's dual 10th Gen (Ice Lake and Comet Lake) offerings in many of our tests while delivering excellent efficiency. If AMD put Intel on the ropes, Apple delivered a punishing blow with its M1 processors. The Apple Silicon powering the latest MacBook Pro and MacBook Air put up jaw-dropping results in our synthetic benchmark tests — even with software running through a Rosetta 2 translation layer. The M1 chip has only gotten faster as developers optimize their software to run natively on ARM.",
+    "Keywords": "performance,chip,",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "8020e3d2-11fc-4967-8e11-b49e3f61ff81",
+    "SubTopic": "Intel vs. Apple M1: Graphics",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "The latest MacBook models with M1 deliver surprisingly good graphics performance considering they rely on an integrated solution, but does that really matter? As you've probably heard before, if you're buying a laptop to play games, don't buy a MacBook. Instead, get a Windows 10 PC with a discrete Nvidia or AMD GPU or connect your ultraportable to an eGPU. Not only will these dedicated gaming systems run your favorite triple-A titles at high resolutions and faster frames, but you never have to worry about a game not being supported on your laptop. If you own a new MacBook Air or MacBook Pro and want to play games, you aren't completely out of luck. With the Rosetta 2 translation software and games increasingly running natively on ARM chips, there is a small library you can choose from, including Borderland 3, World of Warcraft and Fortnite. Most major releases, however, will not run on a Mac. Of those that are supported, games with modest graphics requirements run smoothly on lower settings, as we determined in our benchmarks. The MacBook Air ran Rise of the Tomb Raider (1440 x 900) on Very High graphics settings at 29 frames per second. That's playable though short of our 30-fps threshold. Sid Meier's Civilization VI: Gathering Storm (1440 x 900) ran at a smooth 37 fps with the graphics set to Medium. That is right around where the Yoga 9i with Intel Iris Xe graphics landed (25 fps), but again, PCs with discrete graphics or an eGPU are the way to go.",
+    "Keywords": "graphic,chip,intel,M1",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "271a7706-07e7-4a60-b5cd-8f964860f2c6",
+    "SubTopic": "Intel vs. Apple M1: Battery life",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "Intel has attempted to squash the excitement around the MacBook Pro and MacBook Air's battery life, but this is a tough fight to pick. Based on our own battery tests, Apple's latest laptops are among the longest-lasting on the market with the MacBook Pro surviving for an outstanding 16 hours and 32 minutes. The MacBook Air was just behind at 14 hours and 41 minutes. To emphasize, these are some of the longest runtimes we've ever seen from any laptop. That said, there are a handful of Intel-powered laptops capable of similar or even lengthier runtimes (Windows 10 laptops top our laptops with the longest battery life list). Dell's Latitude 9510, for example, stayed powered for 18 hours and 17 minutes and the Asus ExpertBook B9450 shut down after 16 hours and 42 minutes.",
+    "Keywords": "Battery,performance,intel,M1",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "724d4018-72af-49dd-b5e6-67e05dea7b6b",
+    "SubTopic": "Intel vs. Apple: Software compatibility",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "The M1 is based on ARM architecture (arm64), so it needs to use an emulator, or a software-translation layer, to run Intel (x86-64) apps. That translator is called Rosetta 2, and based on our tests, it does an excellent job of providing compatibility without damaging performance. <p>Moreover, the translation process is done automatically, so most apps you use on an Intel-powered MacBook (or Windows 10 laptop) will work on the new MacBook Air and Pro. These types of translations typically take a serious toll on performance (see our Surface Pro X review), but not in the case of Rosetta 2. In fact, in certain scenarios, the MacBook Air and Pro are faster than their peers — even when they're at the disadvantage of having to run a non-optimized program through an emulator.</p>",
+    "Keywords": "software,intel,apple,hp",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "05180337-a17c-4732-82d5-45379a8c8410",
+    "SubTopic": "Our advice",
+    "ArticleTopicId": "6c770674-a536-480d-b529-3d18defe301d",
+    "ArticleText": "<p>It's a great time to be buying a laptop. Competition is always healthy for consumers and this feud between Apple and Intel will only bring out the best in each company. As it stands, the new M1-powered MacBook Pro and MacBook Air, regardless of what Intel claims, offer outstanding performance and battery life. Are they the absolute best notebooks on the market? The answer to that question depends on your needs.</p><p>Intel-based systems come in all shapes, sizes and flavors, allowing you to purchase the device that uniquely fits your lifestyle. Need a gaming laptop, a business notebook, or a 2-in-1 that can convert from a laptop into a tablet? Go with a Windows 10 PC — one using either an Intel or AMD processor. And if your budget is below $1,000, then you can disqualify Apple from the get-go.</p><p>In the end, there is no glaring reason, price excluded, to avoid the new M1 MacBook models — they have premium designs, good displays, fast performance and long battery life. However, if you're a rare OS-agnosic user, there are plenty of reasons to choose an Intel-powered Windows 10 machine instead.</p>",
+    "Keywords": "software,intel,apple,hp",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "918d70da-758e-4403-80c2-d5318f2732e6",
+    "SubTopic": "What Lagos Submit is all About",
+    "ArticleTopicId": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "ArticleText": "The Lagos Digital Summit (LDS), a conference established in 2017 to harness the constant innovations in a fast-paced digital world for the advancement of society, held its fifth edition themed: “Digital Media as a Tool for Business Growth” on Friday, Nov. 26, 2021. In its usual fashion, the event featured top personalities from the entertainment and business worlds to share insights with the audience. Following the success of the event we caught up with the Convener of the summit, Adewale Akeem Adetona a.k.a iSlimfit to discuss a wide range of topics including future editions and the Tech industry.",
+    "Keywords": "event,submit,lagos,submit",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "fc195486-f829-4ada-8d58-bbbf317f7fe0",
+    "SubTopic": "What was the driving force behind the establishment of the Lagos Digital Summit?",
+    "ArticleTopicId": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "ArticleText": "Lagos Digital Summit started 5 years ago with just an idea in my small shared apartment back then in Ebute Metta with my friend who is now in Canada. The aim was simply to facilitate a platform for the convergence of 50-60 digital marketing professionals and business thought leaders for the advancement of SMEs and Digital Media enthusiasts within our network. Five years down the line, although with plenty of challenges, it’s been a bigger success story. We have had the privilege of empowering over 5,000 Businesses and Individuals with diverse digital marketing skills. Over the years, what can you say that the successes of the conference have been? The impact of Lagos Digital Summit since its inception cannot be overemphasized. We have had an average of 1,000 participants for each of the editions, who have been empowered with diverse digital skills for their businesses. We have generally witnessed the vital role digital media has played globally this year – from updates to providing relevant information in theongoing battle against the pandemic, and citizens holding their governments accountable for policy decisions and societal transformation. LDS has always been FREE to attend and targeted at Brand and Communication Managers, Techpreneurs, Digital Media Strategists, SME Owners/Managers, Start-ups, MDAs, corporate bodies, tech compliant and adaptive firms, and the general public.",
+    "Keywords": "event,submit,lagos,submit",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "e973adb8-e460-4d81-97b7-e0c48bcf1682",
+    "SubTopic": "The 5th edition",
+    "ArticleTopicId": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "ArticleText": "The 5th edition of the programme was concluded a week ago LDS keeps getting better every year in all ramifications. The best part is that there is no speaker we want on the programme that would say NO to us. We have had instances where people even reach out to us to include them as speakers for some of the recent editions. This is because they know the worth of the event and know how big and important it is to their career and personal profile. This recently concluded edition witnessed some new initiatives like OOH advert, that is, BRT branding advertisement, issuance of certificates to all our volunteers, which would eventually be a good addition to their professional profile as their contribution to the digital technology field. We also witnessed new brands coming on board to support us; Rolad Properties, they gave out a piece of land to one of the Summit attendees; Amber Energy Drink; MyLibriBooks, and MTN Nigeria.",
+    "Keywords": "event,submit,lagos,submit",
+    "IsPublished": true,
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "301272c7-e260-4944-b0c6-d58195d7b921",
+    "SubTopic": "What is the long-term vision for the Summit?",
+    "ArticleTopicId": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "ArticleText": "LDS has become a household name through diverse sessions on how creative and digital entrepreneurs can take advantage of digital technologies for economic development and thereby take charge of the future. The long-term vision is to ensure that Lagos Digital Summit holds every year and to maintain the same quality in terms of speakers, sponsors and content, to enable us to deliver on our promise of a platform for learning, transformation and networking amongst digital media practitioners and enthusiast in Lagos and Nigeria at large. The annual event has also led to the birth of various Digital Summits alike across several states in the nation including Ogun Digital Summit, Ekiti Digital Summit, and Covenant Digital Summit, all of which have shared the same vision and objectives and achieved similar results. The goal is to continue to support similarly minded individuals and group of people to champion platforms that will continue to foster the development of Nigeria’s Digital tech economy.",
+    "Keywords": "event,submit,lagos,submit",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "11195393-af23-4f4e-b2cc-19df34e6835a",
+    "SubTopic": "What’s next",
+    "ArticleTopicId": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "ArticleText": "Talking about what is next, the goal is to love and admire Nigeria from abroad while working very hard to build Tech solutions for the Nigerian and African market, and also help brands achieve their desired marketing goals.5",
+    "Keywords": "event,submit,lagos,submit",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "196e4a32-b31f-4085-94d7-a7e70419eb39",
+    "SubTopic": "What is .Net Framework?",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": "Net Framework is a software development platform developed by Microsoft for building and running Windows applications. The .Net framework consists of developer tools, programming languages, and libraries to build desktop and web applications. It is also used to build websites, web services, and games. The .Net framework was meant to create applications, which would run on the Windows Platform. The first version of the .Net framework was released in the year 2002. The version was called .Net framework 1.0. The Microsoft .Net framework has come a long way since then, and the current version is .Net Framework 4.7.2. The Microsoft .Net framework can be used to create both – Form-based and Web-based applications. Web services can also be developed using the .Net framework. The framework also supports various programming languages such as Visual Basic and C#. So developers can choose and select the language to develop the required application. In this chapter, you will learn some basics of the .Net framework.",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+
+  {
+    "Id": "531d214b-723c-499a-9124-7df37f3f3c12",
+    "SubTopic": ".Net Framework Architecture",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": ".Net Framework Architecture is a programming model for the .Net platform that provides an execution environment and integration with various programming languages for simple development and deployment of various Windows and desktop applications. It consists of class libraries and reusable components.",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "d841590e-4362-450f-8085-1e1655b06b06",
+    "SubTopic": "Class Library",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": "The .NET Framework includes a set of standard class libraries. A class library is a collection of methods and functions that can be used for the core purpose. For example, there is a class library with methods to handle all file-level operations. So there is a method which can be used to read the text from a file. Similarly, there is a method to write text to a file. Most of the methods are split into either the System.* or Microsoft.* namespaces. (The asterisk * just means a reference to all of the methods that fall under the System or Microsoft namespace) A namespace is a logical separation of methods. We will learn these namespaces more in detail in the subsequent chapters.",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "0b95db50-ea30-4a52-a918-6f424d3aaf91",
+    "SubTopic": ".Net Framework Design Principle",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": "Now in this .Net Architecture tutorial, we will learn the design priciples of .Net framework. The following design principles of the .Net framework is what makes it very relevant to create .Net based applications.<li><b>Interoperability</b> – The .Net framework provides a lot of backward support. Suppose if you had an application built on an older version of the .Net framework, say 2.0. And if you tried to run the same application on a machine which had the higher version of the .Net framework, say 3.5. The application would still work. This is because with every release, Microsoft ensures that older framework versions gel well with the latest version.</li>",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "4f535acb-139e-47da-a7cd-57f45e7d7608",
+    "SubTopic": "Garbage Collection",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": "Garbage collection is the process of removing unwanted resources when they are no longer required.",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "e427cbd9-bcd9-48b4-91af-017c56718e18",
+    "SubTopic": "Summary",
+    "ArticleTopicId": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "ArticleText": ".Net is a programming language developed by Microsoft. It was designed to build applications which could run on the Windows platform. The .Net programming language can be used to develop Forms based applications, Web based applications, and Web services. Developers can choose from a variety of programming languages available on the Microsoft .Net framework platform. The most common ones are VB.Net and C#. <li><b>Simplified deployment</b> – The .Net framework also have tools, which can be used to package applications built on the .Net framework. These packages can then be distributed to client machines. The packages would then automatically install the application.</li>",
+    "Keywords": "dotnet,c#,microsoft",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "e5324f6e-c153-45c3-942d-2a362cda872b",
+    "SubTopic": "What is Angular?",
+    "ArticleTopicId": "11497acf-cd60-4480-a047-c278a22b9cbc",
+    "ArticleText": "Angular is a development platform built on the typescript. It is a component-based framework for building scalable web apps. It has a collection of well-integrated libraries and features such as client-server communication, routing, and more. It has a suite of developer tools to develop and scale projects from single-developer size to enterprise-grade applications. Moreover, it’s constantly updated technology with its latest developments led by the Angular team at Google.",
+    "Keywords": "angular,react,test,frontend,framework",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "b53a57c3-520c-4bfd-a8c6-f743e486e8eb",
+    "SubTopic": "What is React?",
+    "ArticleTopicId": "11497acf-cd60-4480-a047-c278a22b9cbc",
+    "ArticleText": "React is an open-source JavaScript library used for frontend development. It is used for building user interface or UI components. Its component-based and declarative traits let developers create interactive and complex UIs easily. Developers can build fast and scalable apps for all platforms due to its “learn once write anywhere” principle. React is managed by Facebook and a community of individual developers and communities.",
+    "Keywords": "angular,react,test,frontend,framework",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "f456a2e7-2560-47ac-8e06-8969bd962eca"
+  },
+  {
+    "Id": "122a907b-bfc8-4ff6-ab98-79e885d9a026",
+    "SubTopic": "Angular vs. React Comparison",
+    "ArticleTopicId": "11497acf-cd60-4480-a047-c278a22b9cbc",
+    "ArticleText": "Angular is a Javascript framework built using Typescript, while Reactjs is a Javascript library and built using JSX. Angular is mostly used to build complex enterprise-grade apps like single-page apps and progressive web apps, while React is used to build UI components in any app with frequently variable data. Angular’s learning curve is steeper due to its too many in-built functionalities while React’s smaller package size. Angular speeds up the frontend development and is known as the standalone solution for building quickest data-driven web applications. Since it is built up by Google engineers, you can be sure of its reliability and efficiency of code backed up by the massive community of experts. Angular is known for its model-view-controller capability that augments the functionalities of browser-based applications by reducing the javascript code needed to keep the application functional and robust. Reactjs is an open-source library. It is used for handling the view layer of the application, and developers prefer it to build reusable UI components. It is fast and scalable to change the data without reloading the page. Reactjs was first used on Facebook and later was implemented in the Instagram news feed. Mostly the large scale applications are using the Reactjs for loading the data without refreshing the pages. ",
+    "Keywords": "angular,react,test,frontend,framework",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "075be585-dfd2-41fb-afa0-b94954b0b08a",
+    "SubTopic": "Background",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "If you are looking to switch jobs and preparing for coding interviews, you will definitely know LeetCode. It is probably the biggest online repository for coding interview questions and also contains a vibrant community to discuss algorithms with other fellow engineers. Whenever I’m free, I love spending time on LeetCode, trying to solve a new coding question, or learning from other smart solutions that people have developed.",
+    "Keywords": "coding,interview,time",
+    "IsPublished": true,
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "f0bc2d42-a56f-46da-987b-c621b3eea46f",
+    "SubTopic": "Problems with LeetCode",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "One of the biggest challenges with LeetCode is that it lacks organization; it has a huge set of coding problems, and one feels lost on where to start or what to focus on. What is an ample amount of questions one should go through before considering themselves prepared for their coding interview? I would love to see a streamlined process that can guide me and teach me enough algorithmic techniques to feel confident for the interview. Being a lazy person myself, I wouldn’t say I like to go through 500+ questions.",
+    "Keywords": "coding,interview,time",
+    "IsPublished": true,
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+
+  {
+    "Id": "42c977be-bd9c-4122-b138-c1e8cb8ffe4d",
+    "SubTopic": "The Solution",
+    "ArticleTopicId": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "ArticleText": "One technique that people often follow is to solve questions related to the same data structure; for example, focusing on questions related to Arrays, then LinkedList, HashMap, Heap, Tree, or Trie, etc. Although this does provide some organization, it still lacks coherence. For example, many questions can be solved using HashMaps but still require different algorithmic techniques. I would love to see question sets that follow not only the same data structure but also similar algorithmic techniques. The best thing I came across was the problem-solving patterns like Sliding Window, Fast and Slow Pointers, or Topological Sort, etc. Following these patterns helped me nurture my ability to map a new problem to an already known problem. This not only made this whole coding-interview-preparation process fun but also a lot more organized. I have gathered around 25 of these coding problem patterns, which I believe can help anyone learn these beautiful algorithmic techniques and make a real difference in the coding interviews. The idea behind these patterns is, once you’re familiar with a pattern, you’ll be able to solve dozens of problems with it. For a detailed discussion of these patterns and related problems with solutions, take a look at Grokking the Coding Interview.",
+    "Keywords": "coding,interview,time",
+    "IsPublished": true,
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "5046e0d9-e614-4f70-99f1-71b0a0576cbc",
+    "SubTopic": "How Does a Blockchain Work?",
+    "ArticleTopicId": "c7e085d5-9463-4cd1-8329-60fcc2bdca7b",
+    "ArticleText": "The goal of blockchain is to allow digital information to be recorded and distributed, but not edited. In this way, a blockchain is the foundation for immutable ledgers, or records of transactions that cannot be altered, deleted, or destroyed. This is why blockchains are also known as a distributed ledger technology (DLT). First proposed as a research project in 1991, the blockchain concept predated its first widespread application in use: Bitcoin, in 2009. In the years since, the use of blockchains has exploded via the creation of various cryptocurrencies, decentralized finance (DeFi) applications, non-fungible tokens (NFTs), and smart contracts.",
+    "Keywords": "Blockchain,Crypto,Tech",
+    "IsPublished": true,
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "214116bd-5c42-47ec-afb7-c69390a505a6",
+    "SubTopic": "Blockchain Decentralization",
+    "ArticleTopicId": "c7e085d5-9463-4cd1-8329-60fcc2bdca7b",
+    "ArticleText": "Imagine that a company owns a server farm with 10,000 computers used to maintain a database holding all of its client’s account information. This company owns a warehouse building that contains all of these computers under one roof and has full control of each of these computers and all of the information contained within them. This, however, provides a single point of failure. What happens if the electricity at that location goes out? What if its Internet connection is severed? What if it burns to the ground? What if a bad actor erases everything with a single keystroke? In any case, the data is lost or corrupted. What a blockchain does is to allow the data held in that database to be spread out among several network nodes at various locations. This not only creates redundancy but also maintains the fidelity of the data stored therein—if somebody tries to alter a record at one instance of the database, the other nodes would not be altered and thus would prevent a bad actor from doing so. If one user tampers with Bitcoin’s record of transactions, all other nodes would cross-reference each other and easily pinpoint the node with the incorrect information. This system helps to establish an exact and transparent order of events. This way, no single node within the network can alter information held within it. Because of this, the information and history (such as of transactions of a cryptocurrency) are irreversible. Such a record could be a list of transactions (such as with a cryptocurrency), but it also is possible for a blockchain to hold a variety of other information like legal contracts, state identifications, or a company’s product inventory.",
+    "Keywords": "Blockchain,Crypto,Tech",
+    "IsPublished": true,
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "e1230fb0-2c93-4cbe-b533-3b5c4ab4950c",
+    "SubTopic": "Is Blockchain Secure?",
+    "ArticleTopicId": "c7e085d5-9463-4cd1-8329-60fcc2bdca7b",
+    "ArticleText": "Blockchain technology achieves decentralized security and trust in several ways. To begin with, new blocks are always stored linearly and chronologically. That is, they are always added to the “end” of the blockchain. After a block has been added to the end of the blockchain, it is extremely difficult to go back and alter the contents of the block unless a majority of the network has reached a consensus to do so. That’s because each block contains its own hash, along with the hash of the block before it, as well as the previously mentioned time stamp. Hash codes are created by a mathematical function that turns digital information into a string of numbers and letters. If that information is edited in any way, then the hash code changes as well. Let’s say that a hacker, who also runs a node on a blockchain network, wants to alter a blockchain and steal cryptocurrency from everyone else. If they were to alter their own single copy, it would no longer align with everyone else’s copy. When everyone else cross-references their copies against each other, they would see this one copy stand out, and that hacker’s version of the chain would be cast away as illegitimate.  Succeeding with such a hack would require that the hacker simultaneously control and alter 51% or more of the copies of the blockchain so that their new copy becomes the majority copy and, thus, the agreed-upon chain. Such an attack would also require an immense amount of money and resources, as they would need to redo all of the blocks because they would now have different time stamps and hash codes. Due to the size of many cryptocurrency networks and how fast they are growing, the cost to pull off such a feat probably would be insurmountable. This would be not only extremely expensive but also likely fruitless. Doing such a thing would not go unnoticed, as network members would see such drastic alterations to the blockchain. The network members would then hard fork off to a new version of the chain that has not been affected. This would cause the attacked version of the token to plummet in value, making the attack ultimately pointless, as the bad actor has control of a worthless asset. The same would occur if the bad actor were to attack the new fork of Bitcoin. It is built this way so that taking part in the network is far more economically incentivized than attacking it.",
+    "Keywords": "Blockchain,Crypto,Tech",
+    "IsPublished": true,
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+
+  {
+    "Id": "1358318c-b147-4bcb-88e8-5206e3c473b0",
+    "SubTopic": "Introduction",
+    "ArticleTopicId": "3689dbea-f242-4c8c-866e-a3395118b280",
+    "ArticleText": "Also known as Web 3.0, Web3 is the next major phase in the evolution of the internet. Much like the foundation of cryptocurrency, and helped along by IoT ecosystems, the onset of the metaverse, and the rise of non-fungible tokens (NFTs), this new internet phase will be based upon decentralization, openness, and greater utilization for individual users. To better understand Web3, it can be helpful to review current and past phases of the internet. Unlike the current Web 2.0 phase, where platforms and apps are owned by centralized entities, such as large tech companies, the Web 3.0 platforms and apps will be developed, owned, and maintained by users. The coming Web3 iteration of the internet is expected to be more like the initial Web 1.0 phase than the current Web 2.0. Dating back to the 1990s, Web1 was the beginning of the World Wide Web. Like Web3 is expected to be, Web1 was defined by decentralized protocols and individual users.",
+    "Keywords": "Web3,Tech,Development",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "e4007c51-f620-4413-ba58-120daa92f2d2",
+    "SubTopic": "Understanding Web3",
+    "ArticleTopicId": "3689dbea-f242-4c8c-866e-a3395118b280",
+    "ArticleText": "Put simply, Web3 is a future, decentralized form of the internet, where users become owners. Rather than using free apps and platforms that collect user data, as in the current phase of Web2, users in the future Web3 phase will be able to participate in the creation, operation, and governance of the protocols themselves. In Web3, ownership can be represented by digital tokens or cryptocurrencies, through decentralized networks known as blockchains. For example, if you hold enough digital tokens for a particular network, you could have a say over the operation or governance of the network. This is similar to the way stockholder voting rights allow shareholders of record in a company to vote on certain corporate actions.",
+    "Keywords": "Web3,Tech,Development",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "46459160-3334-466a-8628-f3616e9d49a2",
+    "SubTopic": "Bottom Line",
+    "ArticleTopicId": "3689dbea-f242-4c8c-866e-a3395118b280",
+    "ArticleText": "Web3 is a future, decentralized phase of internet development, where users become owners. This contrasts from the current Web2, which is dominated by large, centralized players that capture most of the internet’s monetary value. While Web3 is still in its infancy stage, it is likely to impact the investment community and broader economy in the years ahead",
+    "Keywords": "Web3,Files,Teach",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "048e7c23-7be8-44b6-ab34-cf32012dc9d6",
+    "SubTopic": "Introduction",
+    "ArticleTopicId": "87f88561-4e9e-4bcf-8fa5-e945a90b7e56",
+    "ArticleText": "Angular is a popular JavaScript framework that creates interactive web, mobile, and desktop applications. Enforced separation of concerns, first-class TypeScript support, and robust Command Line Interface (CLI) make Angular a top choice for modern enterprise applications. The Angular CLI simplifies the process of getting started with Angular. The CLI also takes care of code generation, production builds, and dependency management. By the end of this tutorial, you’ll have created an Angular application with the Angular CLI. You’ll use the CLI to create a new app, run it in the browser, and build for production. You’ll also view how Angular splits presentation, styling, and business concerns into separate units. This involves practicing how HTML, CSS, and TypeScript layers interact with each other.",
+    "Keywords": "Frontend,Angular,Html,Css",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "816b9268-04b8-4b4a-96d4-b42884544836",
+    "SubTopic": "Running Your Angular Application in the Browser",
+    "ArticleTopicId": "87f88561-4e9e-4bcf-8fa5-e945a90b7e56",
+    "ArticleText": "In this step, you’ll run your application in the browser using the CLI. Angular’s local development server refreshes the browser whenever the filesystem changes. The fast feedback cycle ensures that you can see the results of your changes as soon as possible. command: cd my-first-angular-app ,ng serve -o",
+    "Keywords": "Frontend,Angular,Html,Css",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+
+  {
+    "Id": "e42a74cf-92a8-4e70-b75a-5f17553fb98a",
+    "SubTopic": "Updating the Homepage Template",
+    "ArticleTopicId": "87f88561-4e9e-4bcf-8fa5-e945a90b7e56",
+    "ArticleText": "In this step, you’ll be displaying content on-screen by editing HTML. The HTML template is otherwise known as the view of an Angular component. By the end of this step, you’ll have learned how to update the starter template with your content. You can find the HTML for your AppComponent at src/app/app.component.html. Open this up in a text editor of your choice and delete the contents. You should have a blank HTML document ready to write your markup. Add the below HTML copy to your src/app/app.component.html:",
+    "Keywords": "Frontend,Angular,Html,Css",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "6264855c-38b6-406a-9908-722c1c8d7ba9",
+    "SubTopic": "Introduction",
+    "ArticleTopicId": "1c9be826-7d51-4c49-a6c5-28a96c26740a",
+    "ArticleText": "ne quote that readily comes to mind when such journeys are to be embarked on is to start with what you have. The more value you can create or execute on your own before seeking out investors, the better for your tech startup. Yes, start with you, but always proceed from you to we, because teams win trophies, while individuals win medals, according to a favorite leadership quote. A corollary for this is how well you can help investors (new partners) feel like it’s really not a problem to take a chance on you and your startup company.",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "456888af-ca36-47ea-b77b-6a76bd7bc595",
+    "SubTopic": "Where To Get Funding",
+    "ArticleTopicId": "1c9be826-7d51-4c49-a6c5-28a96c26740a",
+    "ArticleText": "You may want to get help from an incubator or accelerator. Business incubators basically nurture and grow your business while accelerators fast-track same for swifter scale. These are usually a great repository of business know-edge that you can tap into for experience and practical business startup and scale-up tips. Yes, a business idea is good, but an incubation place helps to make your business startup marketable and customer- ready as you go through the business development know- how they offer. Some examples you may want to consider are: CcHub, Wennovation Hub, Spark, Leadpath, 440.ng, GoDo Hub and Startpreneurs to mention but a few. Going through some of their program opens you up to realities that ensure you have a good foundation for that skyscraper you passionately want to build. Getting requisite knowledge is a critical to success factor as most businesses fail because the drivers don’t know what to do next. Most of the time, the subject of funding usually lies within a mix of debt (leverage) or euity funding, and oftentimes these two extremes offer a startup over twenty different avenues to raise money for your business as identified by the World Economic Forum. Here are some of the sources you may want to consider for your business funding: Small business loans (by Commercial Banks, Cooperatives, Association and MFBs among others), Business incubators and accelerators (they build you and connect you with funders as a lot of funders approach them for bankable business startups), Bank overdrafts (talk to your customer relationship manager about an O.D. today), Business grants (like Funds4NGOs or use Google to search for grants), Crowdfunding (where you can pool funds from a community of people online or offline like via a WhatsApp or Facebook group), Angel Investors (they provide knowledge, experience and funding like WBAF – World Business Angels Investment Forum), Invoice discounting or financing (a lot of commercial Banks and MFBs do this), Venture Capital (these often have deep pockets of funds th tthey have raised from even bigger funders), Asset based lending (where a collateral is required for a loan such as a property, gold jewelries, etc), Hire purchase (or rent to own is another great avenue where you get the full value upfront and pay up over time. Approach those selling such assets like cars, properties that you may need for your business and negotiate for this) and Cash or Salary Advance among several others",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "3db4d9cf-bf00-44be-8a1d-8d6d4d6be574",
+    "SubTopic": "Round Off",
+    "ArticleTopicId": "1c9be826-7d51-4c49-a6c5-28a96c26740a",
+    "ArticleText": "Does my business need funding at this time? What type of funding does my business really require? Is the idea capable of generating good revenue? What funding source should I use to give maximum leverage to my business at this time? How will the startup get the money back on time? And Why should I consider funding? Yes funding gives you great leverage that collapses time for you, as cashflow is the lifeblood of every business, but the wrong one can also badly affect your business health. However, getting to cashflow requires a system and structure that needs funds, What is your business model? Does the startup have a great team or can it create one to drive their plan? Who is in your network right now? Do you have a mentor or can you get one? Do you know someone who can get your business in front of the investors you’re interested in? Can you show how much their investment will be worth in one or two years? Getting to the customer and meeting their needs  and requirements is paramount for your tech startup, nd a good plan backed with the right funds create this reality.",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+
+  {
+    "Id": "2798bf55-d13c-4c91-952b-0c71accc14eb",
+    "SubTopic": "Introduction",
+    "ArticleTopicId": "6072a3b9-072d-4242-a9bf-ba877426252d",
+    "ArticleText": "Angel investors invest in early stage or start-up companies in exchange for an equity ownership interest. Angel investing in start-ups has been accelerating. High-profile success stories like Uber, WhatsApp, and Facebook have spurred angel investors to make multiple bets with the hopes of getting outsized returns.",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "1beebbdb-6b29-4d6e-9145-239372e89c20",
+    "SubTopic": "How long will it take to raise angel financing?",
+    "ArticleTopicId": "6072a3b9-072d-4242-a9bf-ba877426252d",
+    "ArticleText": "It's my rule of thumb that it will always take longer to raise angel financing than you expect, and it will be more difficult than you had hoped. Not only do you have to find the right investors who are interested in your sector, but you have to go through meetings, due diligence, negotiations on terms, and more. Raising capital can be a very time-consuming process.",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "ef93b2e6-eda1-48b3-9fe4-046c134cee98",
+    "SubTopic": "How risky is angel investing?",
+    "ArticleTopicId": "6072a3b9-072d-4242-a9bf-ba877426252d",
+    "ArticleText": "It's very risky, and an angel will only invest if he or she is comfortable with potentially losing all of his or her investment. At best, only one in ten startups are successful.",
+    "Keywords": "funding,tech,startup,fintech",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "4eefe394-50c6-4324-ba47-b26257dbacc1",
+    "SubTopic": "Basic Configuration",
+    "ArticleTopicId": "0ea020f6-59e3-4718-8ecc-36f266d85097",
+    "ArticleText": "t reads information from a URL and returns a view. If you've followed my course on Laravel, do not confuse this view with the view in Laravel. Django's view is in fact Laravel's controller. In this example, if the domain is not followed by any argument (http://www.mydomain.com/), Django will return the home view",
+    "Keywords": "Django,python,beginners,",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  },
+  {
+    "Id": "22ebf828-96f3-4f5f-a46e-ec1a5fcb697b",
+    "SubTopic": "Naming URL Patterns",
+    "ArticleTopicId": "0ea020f6-59e3-4718-8ecc-36f266d85097",
+    "ArticleText": "This little trick is very important, it allows us to reverse resolute URLs from the template. We'll talk about this when we get to the template layer. That is all we need to convert for the basics of URL dispatcher. If you've studied Laravel, you may have noticed that something seems missing. What if the HTTP request have different methods? How could we differentiate them? This is the part that I personally think Laravel is doing better than Django. In Django, you cannot match different HTTP methods. All different methods matches the same URL pattern, and we'll have to use flow control to write different codes for different methods. We'll discuss this in detail in the future.",
+    "Keywords": "Django,python,beginners,",
+    "IsPublished": true,
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PublisherId": "02e3d19d-9e32-47e2-96f0-f6202b7510ef"
+  }
+
+]

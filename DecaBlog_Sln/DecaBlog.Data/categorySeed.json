@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "4944837f-8eef-4ca7-9668-3e01ab877ae2",
+    "Name": "Artificial Intelligence"
+  },
+  {
+    "Id": "96c54a79-3c96-409b-a62e-45eac385ac4d",
+    "Name": "Back-End"
+  },
+  {
+    "Id": "3ba7fe40-38de-4dc8-84e0-d9cb0a039096",
+    "Name": "Front-End"
+  },
+  {
+    "Id": "5ef5e520-bb09-4db0-a8b5-ba5138b8e8de",
+    "Name": "Block Chain"
+  },
+  {
+    "Id": "df8dc157-31e9-4c60-a12f-363ae5839feb",
+    "Name": "Database"
+  },
+  {
+    "Id": "07de45ee-3918-4bb4-993b-fab38c31f39c",
+    "Name": "Work Culture and Ethics"
+  },
+  {
+    "Id": "27c5988a-98e1-48d6-875c-48bfe96b64d5",
+    "Name": "Data Structure Algorithm"
+  },
+  {
+    "Id": "bee1de14-0ae7-4fb1-af92-744df93fe7ad",
+    "Name": "Product Reviews"
+  },
+  {
+    "Id": "d45b1cbe-1e31-4633-86de-ad954f746bc2",
+    "Name": "Events and Event Reviews"
+  },
+  {
+    "Id": "3cb72034-86d3-43ab-b6de-5413a28a1207",
+    "Name": "Careers"
+  },//new
+  {
+    "Id": "7a538ea2-c2d3-46d2-852a-88ba0ebf36c0",
+    "Name": "Problem Solutions"
+  },
+  {
+    "Id": "df00181d-b879-4c19-9be5-1d2718be2844",
+    "Name": "FinTech"
+  },
+  {
+    "Id": "4064efe2-12b4-44cc-88ef-adff4c128c6a",
+    "Name": "Finance And Funding"
+  },
+  {
+    "Id": "cc9143c8-9d13-4252-a715-f1dba461e689",
+    "Name": "LifeStyle"
+  },
+  {
+    "Id": "6cfac20e-4630-4f1b-ad3c-604673d9da69",
+    "Name": "Gaming"
+  }
+]

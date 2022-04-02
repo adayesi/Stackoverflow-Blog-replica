@@ -1,0 +1,131 @@
+﻿[
+  {
+    "Id": "cb7870ea-89a3-4fc2-8d3c-513637f2f9da",
+    "Topic": "Learning The Basics of Data Structure Algorithms",
+    "Abstract": "This will give you a basic understanding on Data Structures needed to understand the complexity of enterprise level applications",
+    "CategoryId": "27c5988a-98e1-48d6-875c-48bfe96b64d5",
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647388935/data_structure_acvzps.jpg"
+  },
+  {
+    "Id": "6c770674-a536-480d-b529-3d18defe301d",
+    "Topic": "Apple M1 vs. Intel CPU: This is the best processor for your laptop",
+    "Abstract": "Apple M1 vs Intel CPU — let the battle begin!",
+    "CategoryId": "bee1de14-0ae7-4fb1-af92-744df93fe7ad",
+    "UserId": "0c4326cc-37bb-48a2-84dd-6be02b23699b",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647390612/hero-image.fill.size_1248x702.v1623371895_gxlhnp.jpg"
+  },
+  {
+    "Id": "3c8feb85-15ae-4e1e-9fe2-6873d1df98eb",
+    "Topic": "Android May be Replaced by Fuchsia in the Next Five years, Have You Heard?",
+    "Abstract": "Google is already working on an operating system that may replace Android in the next five years.",
+    "CategoryId": "bee1de14-0ae7-4fb1-af92-744df93fe7ad",
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647396054/m1-v-intel-thumb_t2blze.jpg"
+  },
+  {
+    "Id": "f9610c91-9a09-4494-af22-7ea9840c8469",
+    "Topic": "20 ideas for better data visualization",
+    "Abstract": "Applications we design are becoming increasingly data-driven. The need for quality data visualization is high as ever. Confusing and misleading graphics are all around us, but we can change this by following these simple rules.",
+    "CategoryId": "cc9143c8-9d13-4252-a715-f1dba461e689",
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647391194/stunning-data-visualizations-61f0036f691f0-sej_vezmhi.png"
+  },
+  {
+    "Id": "cb75b5bd-ee46-4e3e-93a8-f84b88ed0d6f",
+    "Topic": "App-technology to improve lifestyle behaviors among working adults",
+    "Abstract": "This article protocol presents the design and methodology of the Health Integrator Study",
+    "CategoryId": "cc9143c8-9d13-4252-a715-f1dba461e689",
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647391551/Best-Lifestyle-Apps_c0tdlb.webp"
+  },
+  {
+    "Id": "1bb3fda7-3429-42b4-b83a-48d92459e9b4",
+    "Topic": "Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews",
+    "Abstract": "This is used for creating the backend of an application",
+    "CategoryId": "27c5988a-98e1-48d6-875c-48bfe96b64d5",
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PhotoUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png"
+  },
+  {
+    "Id": "82a386ba-9326-413d-9807-5d1af1a24384",
+    "Topic": "Here’s what happened at Apple’s virtual 2021 fall event",
+    "Abstract": "Anytime Apple hosts an event, it’s like time stops in the technology world. If that should still be the case is up to you, but it remains fact.",
+    "CategoryId": "d45b1cbe-1e31-4633-86de-ad954f746bc2",
+    "UserId": "cc2c86a8-3fb2-4b68-a1dd-29b7fad2d379",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647392041/t_d3fb818d29d34e47adaf12d294167666_name_download_cqkkhe.jpg"
+  },
+  {
+    "Id": "e1472231-6096-4ca8-932d-5d0da8c3051b",
+    "Topic": "Missed the Lagos Digital Summit ?",
+    "Abstract": "Highlighting one of the biggest governmental pushes towards digital innovations, the Lagos state government held its Lagos Digital Summit 2021 on Friday, November 26.",
+    "CategoryId": "d45b1cbe-1e31-4633-86de-ad954f746bc2",
+    "UserId": "09d5de62-bfea-4add-94a6-dd1db802eddd",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647392433/events_ygzagd.jpg"
+  },
+  {
+    "Id": "1c9be826-7d51-4c49-a6c5-28a96c26740a",
+    "Topic": "Positioning your tech startup business idea for funding opportunities",
+    "Abstract": "This article discuses how to get funding as a startup",
+    "CategoryId": "4064efe2-12b4-44cc-88ef-adff4c128c6a",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647391551/Best-Lifestyle-Apps_c0tdlb.webp"
+  },
+  {
+    "Id": "6072a3b9-072d-4242-a9bf-ba877426252d",
+    "Topic": "20 Things All Entrepreneurs Should Know About Angel Investors",
+    "Abstract": "Here are my thoughts on frequently asked questions from entrepreneurs about angel financing.",
+    "CategoryId": "4064efe2-12b4-44cc-88ef-adff4c128c6a",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647393140/130916123657-angel-investors-620xa_e6fspq.jpg"
+  },
+  {
+    "Id": "0ea020f6-59e3-4718-8ecc-36f266d85097",
+    "Topic": "Django Tutorial #2: URL Configuration",
+    "Abstract": "My  focus will be on understanding each of these layers, but first, we need to start with the entry point of every web application, the URL dispatcher. What it does is that when the user types in a URL and hits Enter, The dispatcher reads that URL and directs the user to the correct page.",
+    "CategoryId": "5ef5e520-bb09-4db0-a8b5-ba5138b8e8de",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647393482/django-logo-negative_s4zkoc.png"
+  },
+  {
+    "Id": "0ed14dd1-079d-4d64-b6a8-634cdbb0b908",
+    "Topic": "The DotNet Framework",
+    "Abstract": ".NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.",
+    "CategoryId": "5ef5e520-bb09-4db0-a8b5-ba5138b8e8de",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647393767/download_pwib8t.png"
+  },
+  {
+    "Id": "11497acf-cd60-4480-a047-c278a22b9cbc",
+    "Topic": "Angular vs React 2022 : Which JS Framework your Project Requires?",
+    "Abstract": "Compare Angular vs React to over performance, maintainability, learning curve, and use cases to find out which one suits your needs better.",
+    "CategoryId": "3ba7fe40-38de-4dc8-84e0-d9cb0a039096",
+    "UserId": "12d1ad28-ed55-4935-beae-8e1a345263e9",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647393994/AngvsReact_aobliw.png"
+  },
+  {
+    "Id": "87f88561-4e9e-4bcf-8fa5-e945a90b7e56",
+    "Topic": "Getting Started With Angular Using the Angular CLI",
+    "Abstract": "This article talk about who get started Angular framework that creates interactive web, mobile, and desktop applications.",
+    "CategoryId": "3ba7fe40-38de-4dc8-84e0-d9cb0a039096",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647394592/Angular_full_color_logo.svg_vjjudl.png"
+  },
+  {
+    "Id": "c7e085d5-9463-4cd1-8329-60fcc2bdca7b",
+    "Topic": "What Is a Blockchain?",
+    "Abstract": "A blockchain is a distributed database that is shared among the nodes of a computer network.",
+    "CategoryId": "5ef5e520-bb09-4db0-a8b5-ba5138b8e8de",
+    "UserId": "e533c4da-2fe8-4f42-a61c-944679fcbdd2",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647395294/blockchain_lspheo.jpg"
+  },
+  {
+    "Id": "3689dbea-f242-4c8c-866e-a3395118b280",
+    "Topic": "What Is Web3?",
+    "Abstract": "Also known as Web 3.0, Web3 is the next major phase in the evolution of the internet.",
+    "CategoryId": "5ef5e520-bb09-4db0-a8b5-ba5138b8e8de",
+    "UserId": "ae2ad95e-214c-4a0f-8e3e-5875654a0dec",
+    "PhotoUrl": "https://res.cloudinary.com/decagom/image/upload/v1647395425/web_3_bs1cwt.png"
+  }
+
+]

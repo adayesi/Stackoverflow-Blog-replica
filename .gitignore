@@ -1,0 +1,9 @@
+*\bin
+*\obj
+*.db
+.DS_Store
+.vs
+.vscode
+.idea
+/DecaBlog_Sln/DecaBlog/DecaBlog.db-shm
+/DecaBlog_Sln/DecaBlog/DecaBlog.db-wal

@@ -1,0 +1,4 @@
+namespace DecaBlog.Models.DTO
+{
+
+}
